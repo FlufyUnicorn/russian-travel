@@ -5,9 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e261c472-7d2b-4c66-a4d8-aa0de6cf6bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__author/footer__author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__author/footer__author.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__link/header__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/lead.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__text-container/place__text-container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__text-container/place__text-container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/root/root.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/root/root.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Black.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/Inter-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +66,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projectsY\travel\russian-travel\vendor" />
       <recent name="D:\projectsY\travel\russian-travel\blocks\place" />
     </key>
   </component>
@@ -62,6 +87,7 @@
       <workItem from="1671876753304" duration="2562000" />
       <workItem from="1671913760397" duration="15346000" />
       <workItem from="1673344231216" duration="15476000" />
+      <workItem from="1673548440903" duration="5235000" />
     </task>
     <servers />
   </component>

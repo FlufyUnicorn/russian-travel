@@ -1,24 +1,24 @@
 .lead__caption {
-    color: white;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 10px;
-    line-height: 14px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    padding-top: 8px;
-    margin: 0;
-    align-self: baseline;
+  color: white;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  padding-top: 8px;
+  margin: 0;
+  align-self: baseline;
 }
 
 @media (max-width: 768px) {
-    .lead__caption {
-        padding-left: 24px;
-    }
+  .lead__caption {
+    padding-left: 24px;
+  }
 }
 
 @media (max-width: 425px) {
-    .lead__caption {
-        padding-left: 16px;
-    }
+  .lead__caption {
+    padding-left: 16px;
+  }
 }
