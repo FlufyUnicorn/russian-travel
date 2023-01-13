@@ -6,21 +6,21 @@
   row-gap: 48px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .place {
     grid-template-columns: 43vw auto;
     column-gap: 32px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .place {
     grid-template-columns: 44vw auto;
     column-gap: 28px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
   .place {
     grid-template-columns: 1fr;
     row-gap: 32px;
