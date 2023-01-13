@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e261c472-7d2b-4c66-a4d8-aa0de6cf6bdd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__text-container/place__text-container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__text-container/place__text-container.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__website/place__website.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__website/place__website.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e261c472-7d2b-4c66-a4d8-aa0de6cf6bdd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +61,7 @@
       <workItem from="1671876753304" duration="2562000" />
       <workItem from="1671913760397" duration="15346000" />
       <workItem from="1673344231216" duration="15476000" />
-      <workItem from="1673548440903" duration="16143000" />
+      <workItem from="1673548440903" duration="16385000" />
     </task>
     <servers />
   </component>
