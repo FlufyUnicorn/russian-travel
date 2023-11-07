@@ -1,11 +1,24 @@
 # Проект: Путешествие по России
 
-Здесь будет проект о путешествии по России. Третий проект курса (адаптивный сайт)
+## Описание проекта
+Проект посвящен путешествию по России и создан в рамках прохождения 3 спринта курса Веб-разработчик.
 
-**Используемые технологии:**
-1. HTML, CSS
-2. Flexbox, Grid Layout
-3. Медиа-запросы
-4. Файловая структура по БЭМ
+## Функционал:
+- User eXperience (UX);
+- Адаптивный интерфейс для разных устройств.
 
-Ссылка на проект: https://flufyunicorn.github.io/russian-travel/
+## Стек технологий:
+- HTML5;
+- CSS3:
+  - Flexbox;
+  - Grid Layout;
+  - Positioning;
+  - Adaptive UI;
+  - Media Queries;
+- Методология БЭМ;
+- Фйловая структура Nested БЭМ;
+- Вёрстка по макету в Figma.
+  
+## Ссылки
+- Ссылка на проект: https://flufyunicorn.github.io/russian-travel/
+- [Макет](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile)
